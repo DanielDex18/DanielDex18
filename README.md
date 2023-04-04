@@ -1,6 +1,6 @@
-### Olá, meu nome é Daniel!!
+### Olá, meu nome é Daniel!! Sou estudante da área de TI.
 
-
+##
 
 
 -🔭 Estou atualmente procurando um emprego
