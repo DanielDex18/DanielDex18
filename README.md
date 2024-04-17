@@ -8,8 +8,7 @@
 <p>
   Hi 👋, I'm Daniel! A passionate Data Science student from Brazil.
 
-  - 🌱 I'm currently studying Systems Analysis and Development at Einstein Limeira. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
+  - 🌱 I'm currently studying Systems Analysis and Development at Einstein Limeira.
   - 🔭 I am looking for my first job opportunity.
 </p>
 
