@@ -30,7 +30,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
+- [Java - Sistema de Configuração de Veículos (POO)](https://github.com/DanielDex18/CarCustomizer)
 - [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
 - [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
 - [C - Registration and query system](https://github.com/VariableBee/Cartorio)
