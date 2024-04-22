@@ -32,8 +32,7 @@
 ## Portfolio:
 - [Java - Sistema de Configuração de Veículos (POO)](https://github.com/DanielDex18/CarCustomizer)
 - [Python- Sistema de Gerenciamente de Fila](https://github.com/DanielDex18/QueueManager)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+
 
 <!-- GIF -->
 <p align="left">
